@@ -8,4 +8,5 @@ In my new versión (Delphi 10.4 Version 27.0.40680.4203 ) the file is located in
 in both files the bytes we have to change are the same. you can find them in the file: BytestToModify.txt
 The offset may vary in other versions, and the files my have other (similar) name ann have a different path, but the procedure is the same: find the bytes and repace them with the new ones.
 There is another txt file comenting the FPU code: FPUcodeToGetExtendedPrecision.txt
+And other one comparing the tow codes, the original and the new one : CodeComparation.pdf
 The files in the Repository (SysUtils.dcu and System.SysUtils.dcu), are already changed to the new version to compile programs showing data in up to 19 decimal digits.
