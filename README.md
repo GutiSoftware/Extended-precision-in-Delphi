@@ -23,4 +23,4 @@ Added file SysUtilsPatch.exe (and a new branch with the delphi project) to repla
 
 Added file FPUCodecommented.pdf 
 
-The delphi project have been programmed by Arapumk 
+The delphi project has been programmed by Arapumk 
