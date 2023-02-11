@@ -18,3 +18,7 @@ There is another text file comenting the FPU code: FPUcodeToGetExtendedPrecision
 And other one comparing the tow codes, the original and the new one : CodeComparation.pdf
 
 The files in the Repository (SysUtils.dcu and System.SysUtils.dcu), are already changed to the new version to compile programs showing data in up to 19 decimal digits.
+
+Added file SysUtilsPatch.exe (and a new branch with the delphi project) to replace bytes the in System.dcu file (or similary).
+
+The delphi project have been programmed by Arapumk 
