@@ -21,4 +21,6 @@ The files in the Repository (SysUtils.dcu and System.SysUtils.dcu), are already 
 
 Added file SysUtilsPatch.exe (and a new branch with the delphi project) to replace bytes the in System.dcu file (or similar depending on your delphi version).
 
+Added file FPUCodecommented.pdf 
+
 The delphi project have been programmed by Arapumk 
