@@ -19,6 +19,6 @@ And other one comparing the tow codes, the original and the new one : CodeCompar
 
 The files in the Repository (SysUtils.dcu and System.SysUtils.dcu), are already changed to the new version to compile programs showing data in up to 19 decimal digits.
 
-Added file SysUtilsPatch.exe (and a new branch with the delphi project) to replace bytes the in System.dcu file (or similary).
+Added file SysUtilsPatch.exe (and a new branch with the delphi project) to replace bytes the in System.dcu file (or similar depending on your delphi version).
 
 The delphi project have been programmed by Arapumk 
