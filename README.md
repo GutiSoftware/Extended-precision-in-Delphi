@@ -17,4 +17,6 @@ Added program file SysUtilsPatch30.exe (and a new branch with the delphi project
 
 Added file: ChangesInThecompiledDELPHIcodeToGetExtendedPrecision.txt
 
+Added file: ChangesInThecompiledDELPHIcodeToGetExtendedPrecisionRound.txt
+
 The delphi project has been programmed by Arapumk 
