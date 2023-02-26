@@ -13,7 +13,7 @@ Ihave modified too my new versión (Delphi 10.4 Version 27.0.40680.4203 ) the fi
 
 The offset may vary in other versions, and the files my have other (similar) name and have a different path, but the procedure is the same: find the bytes and replace them with the new ones.
 
-Added program file SysUtilsPatch30.exe (and a new branch with the delphi project). Read the Help into the program to Know how to use it.
+Added program file SysUtilsPatch42.exe (and a new branch with the delphi project). Read the Help into the program to Know how to use it.
 
 Added file: ChangesInThecompiledDELPHIcodeToGetExtendedPrecision.txt
 
